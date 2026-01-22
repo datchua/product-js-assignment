@@ -1,3 +1,2 @@
-# product-js-assignment
-Họ tên: Lê Phát Đạt  
-MSSV: 2280600587  
+Lephatdat_2280600587
+
